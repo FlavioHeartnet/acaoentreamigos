@@ -1962,7 +1962,7 @@
 	input[type="button"],
 	button,
 	.button {
-		background-color: #ffcb06;
+		background-color: #01aed8;
 		color: #fff !important;
 	}
 
@@ -1979,7 +1979,7 @@
 		input[type="button"]:active,
 		button:active,
 		.button:active {
-			background-color: #ffcb06;
+			background-color: #4aa3df;
 		}
 
 		input[type="submit"].alt,
@@ -2941,7 +2941,7 @@
 			.wrapper.style1 input[type="button"],
 			.wrapper.style1 button,
 			.wrapper.style1 .button {
-				background-color: #66c9d8;
+				background-color: #01aed8;
 				color: #fff !important;
 			}
 
@@ -3107,8 +3107,8 @@
 			}
 
 		.wrapper.style2 {
-			background-color: #ffcb06;
-			color: #000;
+			background-color: #252525;
+			color: rgb(255, 255, 255);
 		}
 
 			.wrapper.style2 input, .wrapper.style2 select, .wrapper.style2 textarea {
@@ -3124,11 +3124,11 @@
 				}
 
 			.wrapper.style2 strong, .wrapper.style2 b {
-				color: #000;
+				color: rgb(255, 255, 255);
 			}
 
 			.wrapper.style2 h1, .wrapper.style2 h2, .wrapper.style2 h3, .wrapper.style2 h4, .wrapper.style2 h5, .wrapper.style2 h6 {
-				color: #000;
+				color: rgb(255, 255, 255);
 			}
 
 			.wrapper.style2 blockquote {
@@ -3427,7 +3427,7 @@
 
 			#header > .logo a {
 				font-size: 1.25em;
-				color: #ffcb06;
+				color: #B6B8Ba;
 			}
 
 				#header > .logo a:hover {
@@ -3705,7 +3705,7 @@
 		-webkit-justify-content: center;
 		-ms-justify-content: center;
 		justify-content: center;
-		background-image: url("../../images/banner3.png");
+		background-image: url("../../images/BannerMain.jpeg");
 		background-position: center;
 		background-size: cover;
 		background-repeat: no-repeat;
